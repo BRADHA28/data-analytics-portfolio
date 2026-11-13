@@ -20,6 +20,16 @@ I am building my skills in Data Analytics and learning to work with data using:
 - Analyzed employees by department using GROUP BY.
 
 **Tool:** SQL
+### 2. Sales Analysis (Microsoft Excel)
 
+- Analyzed sales data using Microsoft Excel.
+- Created Pivot Tables to summarize sales.
+- Performed region-wise sales analysis.
+- Performed category-wise sales analysis.
+- Analyzed monthly sales trends.
+- Analyzed product-wise sales.
+- Created charts to visualize sales performance.
+
+**Tool:** Microsoft Excel
 ## Career Goal
 Aspiring Data Analyst interested in transforming data into meaningful insights.
