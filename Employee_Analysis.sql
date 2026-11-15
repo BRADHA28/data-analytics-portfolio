@@ -43,3 +43,31 @@ GROUP BY Department;
 -- 6. Find highest salary
 SELECT MAX(Salary) AS HighestSalary
 FROM Employees;
+
+-- 7. Display employees based on salary
+SELECT *
+FROM Employees
+ORDER BY Salary DESC;
+
+-- 8. Find lowest salary
+SELECT MIN(Salary) AS LowestSalary
+FROM Employees;
+
+-- 9. Find employees from Hyderabad
+SELECT *
+FROM Employees
+WHERE City = 'Hyderabad';
+
+-- 10. Find employees earning between 35000 and 55000
+SELECT *
+FROM Employees
+WHERE Salary BETWEEN 35000 AND 55000;
+-- 11. Employees earning above average salary
+SELECT *
+FROM Employees
+WHERE Salary > (SELECT AVG(Salary) FROM Employees);
+
+-- 12. Find HR employees
+SELECT *
+FROM Employees
+WHERE Department = 'HR';
