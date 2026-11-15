@@ -14,12 +14,16 @@ I am building my skills in Data Analytics and learning to work with data using:
 ### 1. Employee Database Analysis (SQL)
 
 - Created an employee database using SQL.
-- Practiced INSERT and SELECT statements.
-- Filtered employees using WHERE.
-- Calculated average and highest salary.
-- Analyzed employees by department using GROUP BY.
+- Inserted and managed employee records.
+- Used SELECT, WHERE, BETWEEN and ORDER BY.
+- Applied aggregate functions such as AVG, MAX and MIN.
+- Used GROUP BY and COUNT to analyze department-wise employees.
+- Used subqueries to identify employees earning above average salary.
+- Completed 12 SQL queries.
+- Captured query outputs for project documentation.
 
-**Tool:** SQL
+**Tool:** MySQL
+
 ### 2. Sales Analysis (Microsoft Excel)
 
 - Analyzed sales data using Microsoft Excel.
@@ -31,5 +35,7 @@ I am building my skills in Data Analytics and learning to work with data using:
 - Created charts to visualize sales performance.
 
 **Tool:** Microsoft Excel
+
 ## Career Goal
+
 Aspiring Data Analyst interested in transforming data into meaningful insights.
