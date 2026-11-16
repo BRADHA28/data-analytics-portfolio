@@ -36,6 +36,7 @@ I am building my skills in Data Analytics and learning to work with data using:
 - Created charts to visualize sales performance.
 
 **Tool:** Microsoft Excel
+**Project File:** [View Excel Project](Sales_Analysis_Excel.xlsx)
 
 ### 3. Sales Analysis Dashboard (Power BI)
 
@@ -47,6 +48,7 @@ I am building my skills in Data Analytics and learning to work with data using:
 - Added a region slicer for interactive filtering.
 
 **Tool:** Microsoft Power BI
+**Project File:** [View Power BI Dashboard](Sales_Analysis_Dashboard.pbix)
 
 ## Career Goal
 
