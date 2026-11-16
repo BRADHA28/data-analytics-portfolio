@@ -36,6 +36,17 @@ I am building my skills in Data Analytics and learning to work with data using:
 
 **Tool:** Microsoft Excel
 
+### 3. Sales Analysis Dashboard (Power BI)
+
+- Created an interactive sales dashboard.
+- Displayed total sales, total orders and average sales.
+- Analyzed sales by region.
+- Analyzed sales by product.
+- Created a monthly sales trend.
+- Added a region slicer for interactive filtering.
+
+**Tool:** Microsoft Power BI
+
 ## Career Goal
 
 Aspiring Data Analyst interested in transforming data into meaningful insights.
