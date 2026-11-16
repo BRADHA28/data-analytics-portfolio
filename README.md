@@ -22,7 +22,7 @@ I am building my skills in Data Analytics and learning to work with data using:
 - Completed 12 SQL queries.
 - Captured query outputs for project documentation.
 
-**Tool:** MySQ
+**Tool:** MySQL
 
 ### 2. Sales Analysis (Microsoft Excel)
 
