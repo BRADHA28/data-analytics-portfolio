@@ -23,6 +23,7 @@ I am building my skills in Data Analytics and learning to work with data using:
 - Captured query outputs for project documentation.
 
 **Tool:** MySQL
+**Project File:** [View SQL Project](Employee_Analysis.sql)
 
 ### 2. Sales Analysis (Microsoft Excel)
 
